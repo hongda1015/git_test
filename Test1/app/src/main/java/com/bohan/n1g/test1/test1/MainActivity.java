@@ -21,6 +21,7 @@ public class MainActivity extends Activity {
         filter.addAction("EXITAPP");
         registerReceiver(minReceiver, filter);
         // test
+        // TEST
 
     }
 
