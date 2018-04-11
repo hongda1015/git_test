@@ -22,6 +22,7 @@ public class MainActivity extends Activity {
         registerReceiver(minReceiver, filter);
         // test
         // TEST
+        // TEST
 
     }
 
