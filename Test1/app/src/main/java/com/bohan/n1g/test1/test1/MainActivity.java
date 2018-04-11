@@ -20,6 +20,7 @@ public class MainActivity extends Activity {
         IntentFilter filter = new IntentFilter();
         filter.addAction("EXITAPP");
         registerReceiver(minReceiver, filter);
+        // test
 
     }
 
